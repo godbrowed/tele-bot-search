@@ -1,2 +1,2 @@
-# tele-bot-search
-This Bot Search Animals
+#Install
+pip install aiogram or pip install requirments.txt
